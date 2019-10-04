@@ -1012,6 +1012,7 @@ div.titlebox span.number:after {
 	background-image: url(%%headerimg1%%);
 	background-repeat: no-repeat;
 	background-position: 50% 0%;
+	background-size: cover;
 	content: "";
 	text-indent: -9999px;
 	z-index: -1;
