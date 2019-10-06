@@ -215,7 +215,7 @@ a.random.choice {
 
 #header-bottom-left {
 	position: absolute;
-	top: 110px;
+	top: 200px; /* header_logo_mkhcb */
 	right: 50%;
 	transform: translate(50%, 0);
 }
@@ -288,7 +288,7 @@ a.random.choice {
 /* Sidebar */
 
 .side {
-	margin: 170px 16px 0px 0px;
+	margin: 300px 16px 0px 0px; /* header_mkhcb */
 	padding: 6px 16px;
 	background-color: #fff;
 	border-radius: 2px;
@@ -994,15 +994,15 @@ div.titlebox span.number:after {
 	width: 38px;
 }
 
-/* Body Content - Frontpage */
+/* Body Content - Frontpage */ /* banner_mkhcb */
 
 .content {
 	margin: 96px 16px 0px 16px;
-	padding: 30px 0px 0px 0px;
+	padding: 175px 0px 0px 0px; /* banner_mkhcb */
 }
 
 .content:before {
-	height: 166px;
+	height: 300px; /* banner_mkhcb */
 	top: 0px;
 	position: absolute;
 	width: 100%;
@@ -3711,7 +3711,7 @@ body {
 	position: absolute;
 	right: 48%;
 	transform: translate(50%, 0);
-	top: -75px;
+	top: -75px;  /* header_logo_mkhcb */
 	background: url(%%main-logo%%) no-repeat;
 	height: 65px;
 	width: 65px;
