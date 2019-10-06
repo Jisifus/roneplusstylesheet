@@ -215,7 +215,7 @@ a.random.choice {
 
 #header-bottom-left {
 	position: absolute;
-	top: 200px; /* header_logo_mkhcb */
+	top: 170px; /* header_logo_mkhcb */
 	right: 50%;
 	transform: translate(50%, 0);
 }
