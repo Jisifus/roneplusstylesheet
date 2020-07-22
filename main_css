@@ -4536,7 +4536,6 @@ a[href$="#pete"] {
 	text-indent: 36px;
 	content: "OnePlus 7 Pro Almond";
 }
-
 .flair-7-pro-nebula-blue {
 	padding-right: 4px;
 	padding-top: 2px;
@@ -4552,7 +4551,126 @@ a[href$="#pete"] {
 	text-indent: 36px;
 	content: "OnePlus 7 Pro Nebula Blue";
 }
-
+.flair-7t-grey {
+	padding-right: 4px;
+	padding-top: 2px;
+	background: url(%%flair-sheet%%) -64px -48px;
+	color: #333;
+	font-weight: 600;
+	border: 0;
+	border-radius: 3px;
+	height: 16px;
+	width: 32px;
+	white-space: nowrap;
+	position: relative;
+	text-indent: 36px;
+	content: "OnePlus 7T Frosted Silver";
+}	
+.flair-7t-blue {
+	padding-right: 4px;
+	padding-top: 2px;
+	background: url(%%flair-sheet%%) -96px -48px;
+	color: #333;
+	font-weight: 600;
+	border: 0;
+	border-radius: 3px;
+	height: 16px;
+	width: 32px;
+	white-space: nowrap;
+	position: relative;
+	text-indent: 36px;
+	content: "OnePlus 7T Blue";
+}	
+.flair-7t-pro-blue {
+	padding-right: 4px;
+	padding-top: 2px;
+	background: url(%%flair-sheet%%) -128px -48px;
+	color: #333;
+	font-weight: 600;
+	border: 0;
+	border-radius: 3px;
+	height: 16px;
+	width: 32px;
+	white-space: nowrap;
+	position: relative;
+	text-indent: 36px;
+	content: "OnePlus 7T Pro Blue";
+}	
+.flair-7t-pro-mclaren {
+	padding-right: 4px;
+	padding-top: 2px;
+	background: url(%%flair-sheet%%) -160px -48px;
+	color: #333;
+	font-weight: 600;
+	border: 0;
+	border-radius: 3px;
+	height: 16px;
+	width: 32px;
+	white-space: nowrap;
+	position: relative;
+	text-indent: 36px;
+	content: "OnePlus 7T Pro McLaren";
+}	
+.flair-8-interstellarglow {
+	padding-right: 4px;
+	padding-top: 2px;
+	background: url(%%flair-sheet%%) -192px -48px;
+	color: #333;
+	font-weight: 600;
+	border: 0;
+	border-radius: 3px;
+	height: 16px;
+	width: 32px;
+	white-space: nowrap;
+	position: relative;
+	text-indent: 36px;
+	content: "OnePlus 8 Interstellar Glow";
+}	
+.flair-8-green {
+	padding-right: 4px;
+	padding-top: 2px;
+	background: url(%%flair-sheet%%) -224px -48px;
+	color: #333;
+	font-weight: 600;
+	border: 0;
+	border-radius: 3px;
+	height: 16px;
+	width: 32px;
+	white-space: nowrap;
+	position: relative;
+	text-indent: 36px;
+	content: "OnePlus 8 Glacial Green";
+}	
+.flair-8-black {
+	padding-right: 4px;
+	padding-top: 2px;
+	background: url(%%flair-sheet%%) -256px -48px;
+	color: #333;
+	font-weight: 600;
+	border: 0;
+	border-radius: 3px;
+	height: 16px;
+	width: 32px;
+	white-space: nowrap;
+	position: relative;
+	text-indent: 36px;
+	content: "OnePlus 8 Onyx Black";
+}	
+.flair-8-pro-blue {
+	padding-right: 4px;
+	padding-top: 2px;
+	background: url(%%flair-sheet%%) -192px -48px;
+	color: #333;
+	font-weight: 600;
+	border: 0;
+	border-radius: 3px;
+	height: 16px;
+	width: 32px;
+	white-space: nowrap;
+	position: relative;
+	text-indent: 36px;
+	content: "OnePlus 8 Ultramarine Blue";
+}	
 .flair-contestant {
 	color: #fff;
 	background: #FD9644;
