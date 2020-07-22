@@ -4674,7 +4674,7 @@ a[href$="#pete"] {
 .flair-8-pro-black {
 	padding-right: 4px;
 	padding-top: 2px;
-	background: url(%%flair-sheet%%) -0px -69px;
+	background: url(%%flair-sheet%%) -0px -96px;
 	color: #333;
 	font-weight: 600;
 	border: 0;
@@ -4689,7 +4689,7 @@ a[href$="#pete"] {
 .flair-8-pro-green {
 	padding-right: 4px;
 	padding-top: 2px;
-	background: url(%%flair-sheet%%) -32px -69px;
+	background: url(%%flair-sheet%%) -32px -96px;
 	color: #333;
 	font-weight: 600;
 	border: 0;
