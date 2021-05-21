@@ -4761,6 +4761,102 @@ a[href$="#pete"] {
 	text-indent: 36px;
 	content: "OnePlus 8t (Lunar Silver)";
 }
+
+.flair-9-arcticsky {
+	padding-right: 4px;
+	padding-top: 2px;
+	background: url(%%flair-sheet%%) -192px -64px;
+	color: #333;
+	font-weight: 600;
+	border: 0;
+	border-radius: 3px;
+	height: 16px;
+	width: 32px;
+	white-space: nowrap;
+	position: relative;
+	text-indent: 36px;
+	content: "OnePlus 9 Arctic Sky";
+}
+
+.flair-9-astralblack {
+	padding-right: 4px;
+	padding-top: 2px;
+	background: url(%%flair-sheet%%) -224px -64px;
+	color: #333;
+	font-weight: 600;
+	border: 0;
+	border-radius: 3px;
+	height: 16px;
+	width: 32px;
+	white-space: nowrap;
+	position: relative;
+	text-indent: 36px;
+	content: "OnePlus 9 Astral Black";
+}
+
+.flair-9-wintermist {
+	padding-right: 4px;
+	padding-top: 2px;
+	background: url(%%flair-sheet%%) -256px -64px;
+	color: #333;
+	font-weight: 600;
+	border: 0;
+	border-radius: 3px;
+	height: 16px;
+	width: 32px;
+	white-space: nowrap;
+	position: relative;
+	text-indent: 36px;
+	content: "OnePlus 9 Winter Mist";
+}
+
+.flair-9-pro-pinegreen {
+	padding-right: 4px;
+	padding-top: 2px;
+	background: url(%%flair-sheet%%) -288px -64px;
+	color: #333;
+	font-weight: 600;
+	border: 0;
+	border-radius: 3px;
+	height: 16px;
+	width: 32px;
+	white-space: nowrap;
+	position: relative;
+	text-indent: 36px;
+	content: "OnePlus 9 Pro Pine Green";
+}
+
+.flair-9-pro-stellarblack {
+	padding-right: 4px;
+	padding-top: 2px;
+	background: url(%%flair-sheet%%) -0px -80px;
+	color: #333;
+	font-weight: 600;
+	border: 0;
+	border-radius: 3px;
+	height: 16px;
+	width: 32px;
+	white-space: nowrap;
+	position: relative;
+	text-indent: 36px;
+	content: "OnePlus 9 Pro Stellar Black";
+}
+
+.flair-9-pro-morningmist {
+	padding-right: 4px;
+	padding-top: 2px;
+	background: url(%%flair-sheet%%) -32px -80px;
+	color: #333;
+	font-weight: 600;
+	border: 0;
+	border-radius: 3px;
+	height: 16px;
+	width: 32px;
+	white-space: nowrap;
+	position: relative;
+	text-indent: 36px;
+	content: "OnePlus 9 Pro Morning Mist";
+}
 .flair-contestant {
 	color: #fff;
 	background: #FD9644;
