@@ -594,7 +594,7 @@ div.titlebox span.number:after {
 
 #search:before {
 	display: block;
-	width: 100%;
+	width: 215px;
 	height: 315px;
 	background-image: url(%%op10pro%%);
 	background-repeat: no-repeat;
