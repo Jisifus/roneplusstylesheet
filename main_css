@@ -3981,7 +3981,7 @@ a[href$="#pete"] {
 .flair-one-bamboo {
 	padding-right: 4px;
 	padding-top: 2px;
-	background: url(%%flair-sheet%%) 192px 0px;
+	background: url(%%flair-sheet%%) -160px 0px;
 	color: #333;
 	font-weight: 600;
 	border: 0;
@@ -4883,7 +4883,7 @@ a[href$="#pete"] {
 .flair-9rt {
 	padding-right: 4px;
 	padding-top: 2px;
-	background: url(%%flair-sheet%%) -196px -80px;
+	background: url(%%flair-sheet%%) -192px -80px;
 	color: #333;
 	font-weight: 600;
 	border: 0;
@@ -4914,7 +4914,7 @@ a[href$="#pete"] {
 .flair-nord-ce2 {
 	padding-right: 4px;
 	padding-top: 2px;
-	background: url(%%flair-sheet%%) -224px -80px;
+	background: url(%%flair-sheet%%) -256px -80px;
 	color: #333;
 	font-weight: 600;
 	border: 0;
